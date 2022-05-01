@@ -105,7 +105,7 @@
     },
     "UPSTREAM_REPO": {
       "description": "If you dont know this, Leave as it is",
-      "value": "https://github.com/Shailendra34/Hero-OP",
+      "value": "https://github.com/Heartless75/Hero-OP",
       "required": true
     },
     "UPSTREAM_BRANCH": {
